@@ -2,9 +2,11 @@
 
 This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
 
-# **name**
+# My Memo App
 
-## Getting Started
+## Development memo
+
+### Getting Started
 
 Run your app in the development mode.
 
@@ -14,7 +16,7 @@ blitz start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Environment Variables
+### Environment Variables
 
 Ensure the `.env.local` file has required environment variables:
 
@@ -28,7 +30,7 @@ Ensure the `.env.test.local` file has required environment variables:
 DATABASE_URL=postgresql://<YOUR_DB_USERNAME>@localhost:5432/my-memo-app_test
 ```
 
-## Tests
+### Tests
 
 Runs your tests using Jest.
 
@@ -40,7 +42,7 @@ yarn test
 
 Blitz comes with a test setup using [Jest](https://jestjs.io/) and [react-testing-library](https://testing-library.com/).
 
-## Commands
+### Commands
 
 Blitz comes with a powerful CLI that is designed to make development easy and fast. You can install it with `npm i -g blitz`
 
@@ -58,7 +60,7 @@ Blitz comes with a powerful CLI that is designed to make development easy and fa
 
 You can read more about it on the [CLI Overview](https://blitzjs.com/docs/cli-overview) documentation.
 
-## What's included?
+### What's included?
 
 Here is the structure of your app.
 
@@ -148,7 +150,7 @@ These files are:
 
 You can read more about it in the [File Structure](https://blitzjs.com/docs/file-structure) section of the documentation.
 
-## Learn more
+### Learn more
 
 Read the [Blitz.js Documentation](https://blitzjs.com/docs/getting-started) to learn more.
 
@@ -158,7 +160,7 @@ Read the [Blitz Manifesto](https://blitzjs.com/docs/manifesto) to learn the Blit
 
 Blitz is built on Next.js. For more info on this see [Why use Blitz instead of Next.js](https://blitzjs.com/docs/why-blitz)
 
-## Get in touch
+### Get in touch
 
 The Blitz community is warm, safe, diverse, inclusive, and fun! Feel free to reach out to us in any of our communication channels.
 
